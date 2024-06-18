@@ -13,8 +13,8 @@ For the exercises, make sure to run `temporal server start-dev --ui-port 8080 --
 
 | Directory Name                        | Exercise                                                    |
 | :------------------------------------ | :---------------------------------------------------------- |
-| `exercises/defining-a-custom-error`   | [Exercise 1](exercises/defining-a-custom-error/README.md)   |
-| `exercises/custom-retry-policies`     | [Exercise 2](exercises/custom-retry-policies/README.md)     |
+| `exercises/handling-errors`           | [Exercise 1](exercises/handling-errors/README.md)           |
+| `exercises/non-retryable-error-types` | [Exercise 2](exercises/non-retryable-error-types/README.md) |
 | `exercises/rollback-with-saga`        | [Exercise 3](exercises/rollback-with-saga/README.md)        |
 
 ## Reference

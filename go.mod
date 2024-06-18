@@ -1,4 +1,4 @@
-module errors
+module errstrat
 
 go 1.19
 
